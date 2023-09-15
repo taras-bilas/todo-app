@@ -2,4 +2,4 @@ Todo App - website that provides users with the ability to create, edit, delete,
 
 Tech stack: React, JavaScript, Typescript, HTML5, Sass, BEM, Git/GitHub
 
-Preview:
+Preview: https://taras-bilas.github.io/todo-app/
